@@ -89,12 +89,12 @@ To make the data insights more accessible, I created a dashboard that visualizes
     
 4.3 Pie Charts: Use pie charts to show how sales are distributed by channel or region, helping to visualize the market share and areas of focus.
       4.3.1 Sales distribution by Region pie chart
-      ![image](https://github.com/user-attachments/assets/94754b27-b486-42f1-abe6-738f7951a89c)
+      ![image](https://github.com/user-attachments/assets/ca43dd8b-29b7-4d14-9248-a6f0c4e30128)
       The Pie chart graph shows the distribution of sales among the various Regions. North America has the highest number of sales, while Africa has the lowest number. The graph was 
        generated from the pivot tables above.
 
       4.3.2 Sales distribution by Channel pie chart
-      ![image](https://github.com/user-attachments/assets/17efcc65-711e-4591-a38a-bc39c15f751f)
+      ![image](https://github.com/user-attachments/assets/94754b27-b486-42f1-abe6-738f7951a89c)
       From the above pie chart, we can conclude that Instore distributors sell the most, followed closely by Direct Sales. The least number of sales is obtained from the distributors. 
        as above, the graph was generated from Pivot table.
 
