@@ -64,7 +64,7 @@ Now, focused on more granular analysis to uncover trends and patterns:
           depending on where you want the PivotTable to appear. Click OK. Build Your Pivot Table. In the PivotTable Field List:- Drag salesperson_id into the Rows area. Drag sales_value 
           into the Values area. Drag sales_quantity into the Values area.
   # Overall, Sales Person ID 846 has the most Sales compared to the rest of the Sales person and 323 having the least amount of sales.
-     
+    
 # In conclusion, this analysis will help you understand which regions, channels, and salespeople are the most successful, and where there might be room for improvement.
 
 # 4. Data Visualization (Dashboard)
@@ -93,8 +93,8 @@ To make the data insights more accessible, I created a dashboard that visualizes
       The Pie chart graph shows the distribution of sales among the various Regions. North America has the highest number of sales, while Africa has the lowest number. The graph was 
        generated from the pivot tables above.
 
-      4.3.2 Sales distribution by Channel pie chart
-      ![image](https://github.com/user-attachments/assets/94754b27-b486-42f1-abe6-738f7951a89c)
+4.3.2 Sales distribution by Channel pie chart
+![image](https://github.com/user-attachments/assets/94754b27-b486-42f1-abe6-738f7951a89c)
       From the above pie chart, we can conclude that Instore distributors sell the most, followed closely by Direct Sales. The least number of sales is obtained from the distributors. 
        as above, the graph was generated from Pivot table.
 
